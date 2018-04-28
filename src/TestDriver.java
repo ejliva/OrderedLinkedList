@@ -7,8 +7,6 @@
 /**
  *
  * @author Earl John Liva
- * Instructor: Voelkers
- * TA: Sai P.
  */
 public class TestDriver {
 
