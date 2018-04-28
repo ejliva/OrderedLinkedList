@@ -6,8 +6,6 @@
 
 /**
  * @author: Earl John Liva
- * Instructor: Voelkers
- * TA: Sai P.
  */
 class OrderedLinkedList{
   
